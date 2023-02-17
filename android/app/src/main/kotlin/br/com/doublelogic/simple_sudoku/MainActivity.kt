@@ -1,4 +1,4 @@
-package com.example.game_template
+package br.com.doublelogic.simple_sudoku
 
 import io.flutter.embedding.android.FlutterActivity
 
